@@ -1,0 +1,79 @@
+/* Write your CSS here */
+.bg-conatiner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 25px;
+}
+
+.main-heading {
+  font-family: Roboto;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.commentsection {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.Comment-area {
+  margin-right: 70px;
+  font-size: 32px;
+  font-family: Roboto;
+}
+.usernameinput {
+  padding: 8px;
+  padding-left: 15px;
+  font-size: 25px;
+  font-family: Roboto;
+  border: 1px solid;
+  border-radius: 5px;
+  margin-bottom: 12px;
+}
+.user_comment_input {
+  padding: 8px;
+  padding-left: 15px;
+  font-size: 25px;
+  font-family: Roboto;
+  border: 1px solid;
+  border-radius: 5px;
+  margin-bottom: 12px;
+}
+
+.add_comment_button {
+  width: 180px;
+  font-size: 20px;
+  color: white;
+  background-color: #0284c7;
+  border-radius: 8px;
+  border-width: 0px;
+  padding: 8px;
+  font-family: Roboto;
+}
+.hori-line {
+  color: darkslategray;
+  width: 100%;
+  margin-bottom: 22px;
+}
+
+.comments-count {
+  background-color: #0284c7;
+  color: white;
+  margin: 8px;
+
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 25px;
+  text-align: center;
+}
+
+.comm_count_show {
+  font-size: 25px;
+  font-family: Roboto;
+}
+.comments_list {
+  list-style-type: none;
+}

@@ -1,0 +1,89 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.blue-Color_to_like {
+  color: #0b69ff;
+}
+
+.Normal-Color_to_like {
+  color: darkolivegreen;
+}
+
+.intialAndCommentCont {
+  display: flex;
+  flex-direction: row;
+}
+.IntialCommon_className {
+  border-radius: 55px;
+  width: 58px;
+  height: 58px;
+  padding-top: 13px;
+  margin-right: 22px;
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+.commenter_name {
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.timedistancevalue {
+  margin-left: 35px;
+  color: darkgrey;
+  font-family: Roboto;
+  font-size: 20px;
+}
+.likeDelbuttonsCont {
+  display: flex;
+  justify-content: space-between;
+}
+.userCommentValue {
+  font-size: 25px;
+  font-family: Roboto;
+}
+.commonbuttonclass {
+  background-color: transparent;
+  border-width: 0px;
+}
+.deletebutton {
+  width: 40px;
+  height: 35px;
+  margin-right: 28px;
+}
+.likebutton {
+  width: 40px;
+  height: 35px;
+  margin: 18px;
+}
+.likeword {
+  font-size: 24px;
+  font-family: Roboto;
+}
